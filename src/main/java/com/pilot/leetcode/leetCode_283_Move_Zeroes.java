@@ -1,4 +1,4 @@
-package com.pilot.leetCode;
+package com.pilot.leetcode;
 
 import java.util.Arrays;
 
