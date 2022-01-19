@@ -70,8 +70,11 @@ public class LeetCode_240_有序矩阵查找 {
             if (target == matrix[row][col]) {
                 System.out.println("输出: " + true);
                 break;
-            } else if (target < matrix[row][col]) col--;
-            else row++;
+            } else if (target < matrix[row][col]) {
+                col--;
+            } else {
+                row++;
+            }
         }
         System.out.println("输出: " + false);
     }
