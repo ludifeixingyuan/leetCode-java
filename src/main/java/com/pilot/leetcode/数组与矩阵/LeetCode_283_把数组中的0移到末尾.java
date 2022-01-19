@@ -2,13 +2,7 @@ package com.pilot.leetcode.数组与矩阵;
 
 import java.util.Arrays;
 
-/**
- * 283.把数组中的 0 移到末尾
- *
- * @author wangzongbin
- * @date 2021-10-18
- */
-public class LeetCode_283_Move_Zeroes {
+public class LeetCode_283_把数组中的0移到末尾 {
     // 题目
     // 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
     //
