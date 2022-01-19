@@ -17,6 +17,7 @@ public class LeetCode_378_有序矩阵中第K小的元素 {
     // xxx
 
     // 错题记录：
+    // todo 二分查找法
     // 我用的for一次循环，推荐答案用二分查找法
 
     public static void main(String[] args) {
